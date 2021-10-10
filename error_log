@@ -1,0 +1,1 @@
+[24-Apr-2021 11:24:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/enternals/hms.enternals.com/index.php on line 49
